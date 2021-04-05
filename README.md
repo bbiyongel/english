@@ -3,19 +3,18 @@ plan story writing english
 
 
 ## unit 01. 문장구조1
-### 21.04.05
 
 그 숙녀는 그 영화를 보기 위하여 극장으로 달렸다
-
+The lady ran to theater for watching movie.
 
 tom을 제외하고 모두가 그 역에 정시에 도착했다
-
+All except Tom reach to train terminal at the time.
 
 David는 조조할인을 받으려고 그 극장으로 갔다
-
+David goes to theater for morning discount.
 
 Jack은 Chris를 배웅하기 위하여 공항으로 갔다
-
+Jack went to airport for 배웅 Chris. 
 
 책상 위에 책이 한권 있다
 
